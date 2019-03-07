@@ -7,11 +7,11 @@ This is a code summary for the Machine learning mastery with python, which is fo
 3- Pre-Process Data. (Prepare Data) <br/>
 4- Feature Selection. (Prepare Data) <br/>
 5- Resampling Methods. (Evaluate Algorithms) <br/>
-6- Algorithm Evaluation Metrics. (Evaluate Algorithms)
-7- Spot-Check Classification Algorithms. (Evaluate Algorithms)
-8- Spot-Check Regression Algorithms. (Evaluate Algorithms)
-9- Model Selection. (Evaluate Algorithms)
-10- Pipelines. (Evaluate Algorithms)
-11- Ensemble Methods. (Improve Results)
-12- Algorithm Parameter Tuning. (Improve Results)
-13- Model Finalization. (Present Results)
+6- Algorithm Evaluation Metrics. (Evaluate Algorithms) <br/>
+7- Spot-Check Classification Algorithms. (Evaluate Algorithms) <br/>
+8- Spot-Check Regression Algorithms. (Evaluate Algorithms) <br/>
+9- Model Selection. (Evaluate Algorithms) <br/>
+10- Pipelines. (Evaluate Algorithms) <br/>
+11- Ensemble Methods. (Improve Results) <br/>
+12- Algorithm Parameter Tuning. (Improve Results) <br/>
+13- Model Finalization. (Present Results) <br/>
